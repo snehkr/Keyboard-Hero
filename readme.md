@@ -1,16 +1,16 @@
-## Keyboard Hero
+<h1 align="center"> ⌨️ Keyboard Hero ⌨️</h1>
 
-Game to beat the clock by typing random letters
+<p align="center"> Typing Random Letter</p>
 
-## Project Specifications
+## 📝 Project Specifications
 
-- Create game UI including a difficuly setting
-- Generate random word and place in DOM
-- Score increase after word is typed
-- Implement timer
-- Add certain amount of time after word is typed based on difficulty
-- Store difficulty setting in local storage
+- Colorful Letter Key
+- Random key Typing
+- Type as fast as you can
+- Blinking KeyBoard
 
-## Project Modifier
+</br>
 
-- SnehKr
+---
+
+<h5 align='center'>© 2022-23 SnehKr.</h5>
